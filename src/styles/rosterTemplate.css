@@ -3,6 +3,7 @@
 body {
     margin: 0;
     box-sizing: border-box;
+    background-color: lightcoral;
   }
   
   figure {
@@ -36,11 +37,13 @@ blockquote {
     width: clamp(30ch, calc(1 / 4 * 100%), 100%);
     min-width: 30ch;
     border: 0.5rem solid black;
+    background-color: white;
   }
   
   .card figcaption {
     display: flex;
     flex-direction: column;
     margin: 0 1rem 1rem;
+    
   }
   

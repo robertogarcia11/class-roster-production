@@ -9,3 +9,12 @@ blockquote {
 .emoji span {
     font-size: 2em;
 }
+
+.title {
+    font-size: 3.5rem;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+
